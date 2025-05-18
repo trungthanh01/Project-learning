@@ -1,1 +1,193 @@
-Create a personal CV
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>LE TRUNG THANH</title>
+        <link rel="stylesheet" href="styles.css">
+        <body>
+            <style>
+               
+                    body {
+                        max-width: 800px;
+                        margin: 40px auto;
+                        padding: 40px;
+                        font-family: 'Times New Roman', Times, serif;
+                        outline: auto;
+                        background: #fff;
+                    }
+            </style>
+            <!-- CV project -->
+            <!-- horizon line -->
+            <hr style="border: 1px solid rgb(3, 3, 102);">
+            <style>
+                hr {
+                    border: 1px solid rgb(3, 3, 102);
+                    margin: 20px 0;
+                }
+            </style>
+            
+            
+            <!-- h1 - Your Name -->
+        <div>
+            <h1 class="name">LE TRUNG THANH</h1>
+            <style>
+                .name {
+                    color: rgb(3, 3, 102);
+                    font-size: 40px;
+                }
+            </style>
+            
+        </div>
+        
+                 <!-- h2-titile job --> 
+
+        <div>
+             <h2 class="title">Web Developer</h2>
+
+            <style>
+               .title {
+                color: rgb(3, 3, 102);
+                font-size: 30px;
+               }
+            </style>
+
+        </div>
+
+       
+
+            <!-- p-address -->
+            <div>
+                <p class="address">Viet Nam 
+                <br>Ho Chi Minh City 700000 
+                <br>Tan Phu District 
+                <br>No.341/47/2 
+                <br>St. Khuong Viet 
+                <br>M: 0123456789</p>
+                
+                <style>
+                    .address {
+                        color: black;
+                        font-size: 20px;
+                    }
+
+                </style>
+
+            </div>
+             
+            
+            
+            <!-- p-skill -->
+            <div>
+                <p class="skill-tiltle">Skill</p>
+                <style>
+                .skill-tiltle {
+                    color: rgb(3, 3, 102);
+                    font-size: 30px;
+                    margin-bottom: .1cm;
+                }
+                </style>
+                <p class="skill">HTML, CSS, JavaScript, ReactJS, NodeJS</p>
+                <style>
+                .skill {
+                    color: black;
+                    font-size: 20px;
+                    margin-top: .1cm;
+                    
+                }
+                </style>
+
+            </div>
+             
+            <!-- p-education -->
+            <div>
+                <p class="education">Education:</p>
+                <p class="education1">Ho Chi Minh City University of Technology
+                <br>Bachelor of Computer Science
+                <br> 2018 - 2022</p>
+                <style>
+               .education {
+                color: rgb(3, 3, 102);
+                font-size: 30px;
+                margin-bottom: .1cm;
+               }
+               .education1 {
+                color: black;
+                font-size: 20px;
+                margin-top: .1cm;
+                }
+               
+                </style>
+
+            </div>
+            
+
+            <!--experience  -->
+            <p class="Experience">Experience:</p>
+            <p class="--experience-company">Passio Coffee </p> 
+            
+                <p class="Experience-time"><br>November 28th, 2020 to November 28, 2022
+                <br>Position: Barista
+                <br>Description:
+                <br>- Make coffee and serve customers
+                <br>- Train new employees
+                <br>- Manage the store when the manager is not present
+                </p> 
+            
+
+           
+
+            <p class="--experience-company">Renaisance Riverside Hotel Saigon</p>
+                
+            <p class="Experience-time"><br> November 28th, 2022 to November 28, 2024 
+                <br> Position: Navigator Concierge
+                <br> Description:
+                <br>- Listen to Guest need and provide information
+                <br>- Take care and support Guest
+                <br>- Store and control Guest's luggage
+                <br>- Support other departments when needed</p>
+            
+            
+
+            <style>
+                .Experience {
+                    color: rgb(3, 3, 102);
+                    font-size: 30px;
+                    
+                }
+                .--experience-company {
+                    color: black;
+                    font-size: 25px;
+                    margin-bottom: .1cm;
+                    
+
+                }
+                .Experience-time {
+                    color: black;
+                    font-size: 20px;
+                    margin-top: .1cm;
+                   
+                }
+                
+                
+            </style>
+            <!--across the internet -->
+            <p class="across-the-internet">Across the internet:</p>
+            <p>
+                <a href="https://x.com/marcusleovn" target="_blank" rel="noopener noreferrer" class="social-link">
+                    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" style="width:24px;height:24px;vertical-align:middle;"> My X
+                </a>
+            </p>
+            <p>
+                <a href="https://www.facebook.com/letrungthanh.341" target="_blank" rel="noopener noreferrer" class="social-link">
+                    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" style="width:24px;height:24px;vertical-align:middle;"> My Facebook
+                </a>
+            </p>
+            <p>
+                <a href="https://www.instagram.com/letrungthanh.341/" target="_blank" rel="noopener noreferrer" class="social-link">
+                    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" style="width:24px;height:24px;vertical-align:middle;"> My Instagram
+                </a>
+            </p>
+
+        </body>
+    </head>
+</html>
